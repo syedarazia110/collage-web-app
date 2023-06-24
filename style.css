@@ -1,0 +1,33 @@
+#body
+{
+        background-color:paleturquoise;
+        width:110%;
+        height: 200px;
+}
+#h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(132, 31, 100);
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: rgb(20, 20, 228);
+    padding: 100px;
+}
+.img {
+    width: 10px;
+    height: auto;
+}
